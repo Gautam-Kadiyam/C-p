@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+float a=3.4,b=5.5,res;
+res=a*b;
+cout<<"a:"<<a<<"\nb:"<<b;
+cout<<"\nProduct of 2 numbers:"<<res;
+return 0;
+}
